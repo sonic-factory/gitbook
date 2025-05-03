@@ -1,5 +1,5 @@
 ---
-description: The Sonic Factory contract addresses
+description: Sonic Factory's contract addresses
 ---
 
 # Contract Addresses
