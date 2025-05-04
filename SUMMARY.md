@@ -18,3 +18,9 @@
 
 * [Deployment Hub](developers/deployment-hub.md)
 * [Contract Addresses](developers/contract-addresses.md)
+* [Custom Contracts](developers/custom-contracts.md)
+
+## Socials
+
+* [Telegram](https://t.me/FactorySonic)
+* [X (Twitter)](https://x.com/FactorySonic)

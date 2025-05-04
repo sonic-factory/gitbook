@@ -10,6 +10,7 @@ description: Fees & Charges for the Sonic chain
 | ERC-20 Fee-on-transfer Token Deployment | TBD    |
 | ERC-20 Anti-whale Token Deployment      | TBD    |
 | ERC-20 Reflection Token Deployment      | TBD    |
+| ERC-20 Liquidity Locker                 | TBD    |
 | Yield Farm Deployment                   | TBD    |
 
 {% hint style="info" %}
