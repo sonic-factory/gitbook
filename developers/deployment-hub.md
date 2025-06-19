@@ -10,8 +10,9 @@ The initial offering of Sonic Factory focuses on the creation of simple ERC-20 c
 
 ### Planned Factory Deployments
 
-* ERC-20 Fee-on-transfer Token Factory
-* ERC-20 Anti-whale Token Factory
-* ERC-20 Reflection Token Factory
-* ERC-20 Liquidity Locker
-* Yield Farm Factory
+* ✅ ERC-20 Fee-on-transfer Token Factory&#x20;
+* 🚧 ERC-20 Anti-whale Token Factory
+* 🚧 ERC-20 Reflection Token Factory
+* 🚧 ERC-20 Liquidity Locker
+* 🚧 Yield Farm Factory
+* and more!

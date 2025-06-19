@@ -7,7 +7,8 @@
 
 ## The Protocol
 
-* [Creating Your ERC-20 Token](the-protocol/creating-your-erc-20-token.md)
+* [Creating Your Standard ERC-20 Token](the-protocol/creating-your-standard-erc-20-token.md)
+* [Creating Your Tax Token](the-protocol/creating-your-tax-token.md)
 
 ***
 
