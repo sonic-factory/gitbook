@@ -9,6 +9,7 @@
 
 * [Creating Your Standard ERC-20 Token](the-protocol/creating-your-standard-erc-20-token.md)
 * [Creating Your Tax Token](the-protocol/creating-your-tax-token.md)
+* [Creating Your Token Vesting](the-protocol/creating-your-token-vesting.md)
 
 ***
 

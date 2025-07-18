@@ -2,17 +2,6 @@
 description: >-
   Different deployment types and their corresponding fees & charges on each
   network.
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Fees & Charges
